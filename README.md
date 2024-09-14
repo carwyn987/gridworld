@@ -1,3 +1,5 @@
+https://packaging.python.org/en/latest/tutorials/packaging-projects/
+
 # Example Package
 
 This is a simple example package. You can use
@@ -19,7 +21,7 @@ python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps examp
 ```
 aka
 ```
-pip install -i https://test.pypi.org/simple/ gridworld-carwyn987==0.0.1
+pip install -i https://test.pypi.org/simple/ gridworld-carwyn987==0.0.2
 ```
 
 This will make the files in src accessible by import
@@ -27,3 +29,5 @@ This will make the files in src accessible by import
 import example
 example.add_one(3)
 ```
+
+https://test.pypi.org/project/gridworld-carwyn987/0.0.1/

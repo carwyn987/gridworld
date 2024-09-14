@@ -1,6 +1,6 @@
 [project]
 name = "gridworld_carwyn987"
-version = "0.0.1"
+version = "0.0.3"
 authors = [
   { name="Carwyn Collinsworth", email="carwyncollinsworth@gmail.com" },
 ]
